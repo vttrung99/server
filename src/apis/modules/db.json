@@ -1,0 +1,36 @@
+[
+    
+         
+            {
+                "title": "san pham",
+                "id": 1,
+                "image_url": "/images/product-0.jpg",
+                "price": 25987643
+            },
+            {
+                "title": "san pham",
+                "id": 2,
+                "image_url": "/images/product-0.jpg",
+                "price": 25987643
+            },
+            {
+                "title": "san pham",
+                "id": 3,
+                "image_url": "/images/product-0.jpg",
+                "price": 25987643
+            },
+            {
+                "title": "san pham",
+                "id": 4,
+                "image_url": "/images/product-0.jpg",
+                "price": 25987643
+            },
+            {
+                "title": "san pham",
+                "id": 5,
+                "image_url": "/images/product-0.jpg",
+                "price": 25987643
+            }
+        
+    
+]
